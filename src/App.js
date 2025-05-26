@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div>
-      <h1>BaseTrackr</h1>
+    <div style={{ textAlign: "center", padding: "20px" }}>
+      <img src="basetrackr.png" alt="BaseTrackr Logo" style={{ maxWidth: "150px" }} />
       <p>Welcome to your baseball stats tracker!</p>
     </div>
   );

@@ -11,11 +11,7 @@ function GameInfoForm() {
                 <label>Field: <input type="text" placeholder="Field name" /></label>
             </div>
             <div>
-                <label>Weather: <input type="text" placeholder="Sunny, Cloudy..." /></label>
-            </div>
-            <div>
-                <label>Start Time: <input type="time" /></label>
-                <label>End Time: <input type="time" /></label>
+                <label>Opponent: <input type="text" placeholder="Opponent" /></label>
             </div>
         </section>
     );

@@ -8,7 +8,7 @@ function GameInfoForm() {
                 <label>Date: <input type="date" /></label>
             </div>
             <div>
-                <label>Field: <input type="text" placeholder="Field name" /></label>
+                <label>Field: <input type="text" placeholder="Field" /></label>
             </div>
             <div>
                 <label>Opponent: <input type="text" placeholder="Opponent" /></label>
